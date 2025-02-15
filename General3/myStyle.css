@@ -20,8 +20,8 @@ body {
 a:link {  
     color:steelblue;  }
 a:visited {
-    color: tomato;  }
-a:active {
+    color: palevioletred;  }
+a:hover {
     color: tomato;  }
 a:active {
     color: tomato;  }
