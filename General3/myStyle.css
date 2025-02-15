@@ -18,9 +18,9 @@ body {
     font-family: Georgia, Helvetica, sans-serif, serif  }
 
 a:link {  
-    color: cadetblue;  }
-a:visited {
     color: steelblue;  }
+a:visited {
+    color: slateblue;  }
 a:hover {
     color: tomato;  }
 a:active {
