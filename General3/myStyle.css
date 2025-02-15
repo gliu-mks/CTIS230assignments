@@ -18,11 +18,11 @@ body {
     font-family: Georgia, Helvetica, sans-serif, serif  }
 
 a:link {  
-    color: steelblue;  }
+    color: cadetblue;  }
 a:visited {
-    color: tomato;  }
+    color: steelblue;  }
 a:hover {
-    color: slateblue;  }
+    color: tomato;  }
 a:active {
-    color: slateblue;  }
+    color: tomato;  }
 
