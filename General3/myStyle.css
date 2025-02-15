@@ -1,8 +1,28 @@
-body {  color:black;  }
-p {  color:darkslategrey;  }
-li {  color:darkslategrey;  }
-h3 {   color:cadetblue;  }
+p    {  
+    color:darkslategrey;  }
+li   {  
+    color:darkslategrey;  }
+h3   {   
+    color:cadetblue; 
+    background-color: aliceblue; 
+    width: fit-content;  
+    font-weight: lighter;  }
+h2   {
+    font-style:italic;  }
+em   {  
+    background-color: aliceblue;  }
+body {  
+    color:black; 
+    background-color: aliceblue;  
+    font-size: 0.95em;  
+    font-family: Georgia, Helvetica, sans-serif, serif  }
 
-h3 {  background-color: aliceblue; width: fit-content;  }
-em {  background-color: aliceblue;  }
-body {  background-color: aliceblue;  }
+a:link {  
+    color:steelblue;  }
+a:visited {
+    color: tomato;  }
+a:active {
+    color: tomato;  }
+a:active {
+    color: tomato;  }
+
