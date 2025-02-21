@@ -23,6 +23,13 @@ p.text {
     padding-right: 2%;}
 p.heading em {
     color:black;  }
+p.quote {
+    color: aliceblue;
+    background-clip: border-box;
+    background-color: darkslategrey;
+    font-size: 1.5em;
+    padding-left: 2%;  
+    padding-right: 2%;  }
 
 div {
     padding-left: 2%;  
