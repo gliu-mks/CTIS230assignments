@@ -30,9 +30,9 @@ div {
 
 img#goats {
     float: right;
-    height: 30%;  }
+    height: 25%;  }
 img#swhs {
-    height: 30%;  }
+    height: 25%;  }
 
 a:link {  
     color: steelblue;  }
@@ -47,7 +47,10 @@ ul li {
     margin-top: 0.7em;  }
 
 div.flexible {  
-    display:flex;  }
+    display:flex;  
+    margin-top: 1em}
 div.content {
     margin-top: 1em;
-    font-size: 0.90em;  }
+    margin-bottom: 1em;
+    font-size: 0.90em;  
+    flex-direction: row}
