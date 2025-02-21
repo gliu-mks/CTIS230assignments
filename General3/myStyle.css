@@ -15,7 +15,7 @@ body  {
     background-color: aliceblue;  
     font-size: 0.95em;  
     font-family: Cambria, Georgia, "Book Antiqua", serif;  
-    margin: 0 9.5%;  }
+    margin: 0 8%;  }
 
 p.text {
     font-size: 0.90em;  
@@ -45,3 +45,6 @@ a:active {
 
 ul li {  
     margin-top: 0.7em;  }
+
+div.flexible {  
+    display:flex;  }
