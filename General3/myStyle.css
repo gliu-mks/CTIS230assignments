@@ -27,6 +27,7 @@ div {
     padding-right: 2%;  }
 
 img#goats {
+    float: right;
     width: 300px;  }
 img#swhs {
     width: 270px;  }
