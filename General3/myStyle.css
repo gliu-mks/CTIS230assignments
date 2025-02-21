@@ -37,11 +37,11 @@ div {
 
 img#goats {
     height: 25%;
-    border: 6px;
+    border: 20px;
     border-color: darkslategrey;
     padding-top: 3%;
     padding-bottom: 3%;   
-    margin-right: 10%;}
+    margin: 10% 10%;}
     
 img#swhs {
     height: 25%;  }
