@@ -4,7 +4,8 @@ h3    {
     color:cadetblue; 
     background-color: aliceblue; 
     width: fit-content;  
-    font-weight: lighter;  }
+    font-weight: lighter;  
+    padding-left: 2%;  }
 p em  {
     color:cadetblue;  }
 li, p {  
@@ -13,17 +14,19 @@ li, p {
 body  {  
     background-color: aliceblue;  
     font-size: 0.95em;  
-    font-family: Cambria, Georgia, "Book Antiqua", serif;  }
+    font-family: Cambria, Georgia, "Book Antiqua", serif;  
+    margin: 0 9.5%;  }
 
 p.text {
-    font-size: 0.90em;  }
+    font-size: 0.90em;  
+    padding-left: 2%;  }
 p.heading em {
     color:black;  }
 
 img#goats {
     width:70%;  }
 img#swhs {
-    width:55%;  }
+    width:70%;  }
 
 a:link {  
     color: steelblue;  }
@@ -34,3 +37,5 @@ a:hover {
 a:active {
     color: tomato;  }
 
+ul li {  
+    margin-top: 0.7em;  }
