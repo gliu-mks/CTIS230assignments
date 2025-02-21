@@ -28,9 +28,9 @@ div {
 
 img#goats {
     float: right;
-    width: 300px;  }
+    height: 300px;  }
 img#swhs {
-    width: 270px;  }
+    height: 270px;  }
 
 a:link {  
     color: steelblue;  }
