@@ -18,10 +18,13 @@ body  {
     margin: 0 9.5%;  }
 
 p.text {
-    font-size: 0.90em;  
-    padding-left: 2%;  }
+    font-size: 0.90em;  }
 p.heading em {
     color:black;  }
+
+div {
+    padding-left: 2%;  
+    padding-right: 2%;  }
 
 img#goats {
     width: 300px;  }
