@@ -40,7 +40,9 @@ img#goats {
     border: 6px;
     border-color: darkslategrey;
     padding-top: 3%;
-    padding-bottom: 3%;   }
+    padding-bottom: 3%;   
+    margin-right: 10%;}
+    
 img#swhs {
     height: 25%;  }
 
