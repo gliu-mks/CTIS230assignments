@@ -48,3 +48,6 @@ ul li {
 
 div.flexible {  
     display:flex;  }
+div.content {
+    margin-top: 1em;
+    font-size: 0.90em;  }
