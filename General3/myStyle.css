@@ -38,7 +38,9 @@ div {
 img#goats {
     height: 25%;
     border: 6px;
-    border-color: darkslategrey  }
+    border-color: darkslategrey;
+    padding-top: 3%;
+    padding-bottom: 3%;   }
 img#swhs {
     height: 25%;  }
 
