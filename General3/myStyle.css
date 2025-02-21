@@ -18,7 +18,9 @@ body  {
     margin: 0 9.5%;  }
 
 p.text {
-    font-size: 0.90em;  }
+    font-size: 0.90em;  
+    padding-left: 2%;  
+    padding-right: 2%;}
 p.heading em {
     color:black;  }
 
@@ -28,9 +30,9 @@ div {
 
 img#goats {
     float: right;
-    height: 300px;  }
+    height: 30%;  }
 img#swhs {
-    height: 270px;  }
+    height: 30%;  }
 
 a:link {  
     color: steelblue;  }
