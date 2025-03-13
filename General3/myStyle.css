@@ -8,7 +8,7 @@ h3    {
     padding-left: 2%;  }
 p em  {
     color:cadetblue;  }
-li, p {  
+li, p {
     color:darkslategrey;
     font-size: 0.90em;  }
 body  {  
@@ -68,3 +68,10 @@ div.content {
     font-size: 0.90em;  
     flex-direction: row;
     color: aliceblue;  }
+
+button {
+    font-family: Georgia;
+    color: cadetblue;}
+
+#myinput {
+    display: block;}
