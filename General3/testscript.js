@@ -57,3 +57,12 @@ function onmouseout2() {
     myitemtwo.style.color = ""; 
     myitemtwo.style.fontFamily = "";
 }
+
+const image = document.getElementById("eel");
+    image.addEventListener("click", onClick3() {
+        if (image.style.transform === "scale(2)") {
+                image.style.transform = "scale(1)";
+            } else {
+                image.style.transform = "scale(2)";
+            }
+        });
