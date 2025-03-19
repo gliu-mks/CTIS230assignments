@@ -93,12 +93,15 @@ button {
         font-size: 0.90em
     }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 750px) {
    button {
     font-size: 1.2em
    }
+   img#acc {
+    height: 35%;
+   }
 }
-@media screen and (min-width: 850px) {
+@media screen and (max-width: 850px) {
     body {
         margin: 0 15%;  
     }
