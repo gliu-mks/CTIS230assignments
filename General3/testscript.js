@@ -66,3 +66,10 @@ const image = document.getElementById("eel");
                 image.style.transform = "scale(2)";
             }
         });
+
+image = document.getElementById("eel");        
+    image.addEventListener("click", onClicky);        
+    function onClicky() {  
+        myitem.style.color = "blue"; 
+        myitem.style.fontFamily = "Arial"
+    }
