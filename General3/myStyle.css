@@ -98,7 +98,8 @@ button {
     font-size: 1.2em
    }
    img#acc {
-    height: 35%;
+    height: 200px;
+    width: auto;
    }
 }
 @media screen and (max-width: 850px) {
