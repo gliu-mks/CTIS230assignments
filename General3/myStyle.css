@@ -89,12 +89,17 @@ button {
     body{
         margin: 0 1%;  
     }
-    p.bottom{
+    p.bottom {
         font-size: 0.90em
     }
 }
 @media screen and (max-width: 800px) {
-   button{
+   button {
     font-size: 1.2em
    }
 }
+@media screen and (max-width: 3000px) {
+    body {
+        margin: 0 8%;  
+    }
+ }
