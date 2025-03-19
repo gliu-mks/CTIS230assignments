@@ -46,6 +46,10 @@ img#goats {
 img#swhs {
     height: 25%;  }
 
+img {
+    max-width: 80%;
+}
+
 a:link {  
     color: darkseagreen;  }
 a:visited {
@@ -75,3 +79,14 @@ button {
 
 #myinput {
     display: block;}
+
+@media screen and (orientation: portrait){
+    body {
+        margin: 0 3%;  
+    }
+}
+@media screen and (orientation: landscape){
+    body{
+        margin: 0 3%;  
+    }
+}
